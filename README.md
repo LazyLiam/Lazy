@@ -1,4 +1,4 @@
-# 🦥 LazyLiam Community  
+![LazyLiam Logo](https://files.catbox.moe/nugvle.jpg)
 
 ## "The Next Big Thing"  
 
